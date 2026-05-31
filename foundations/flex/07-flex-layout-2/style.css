@@ -50,17 +50,10 @@ body {
   flex: 1;
 }
 
-/**.cardSection {
+.cardSection {
   display: flex;
   flex-wrap: wrap;
   padding: 48px;
-  gap: 32px;
-}**/
-
-.cardSection {
-  padding: 48px;
-  flex-wrap: wrap;
-  display: flex;  
   gap: 32px;
 }
 
